@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.goj{
+    font-size: large;
+    display: flex;
+    font-style: italic;
+    background-color: rgb(202, 151, 160) ;
+    justify-content: space-between;
+
+}
+.oh{
+    display: block;
+    height: 40px;
+    width: 40px;
+    border-radius: 79%;
+}
+.me{
+    font-style: oblique;
+    font-weight: 300;
+
+}
+.logim{
+    font-size: medium;
+    font-style: italic;
+    display: flex;
+    height: 80px;
+    width: 80px;
+    border-radius: 20%;
+}
+.bx{
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    border:rgb(85, 52, 52) solid 5px;
+    background-color: rgb(172, 137, 137);
+}
+.logim{
+    display: block;
+    margin: auto;
+
+}
+.ha{
+    text-decoration: underline;
+    font-style: italic;
+
+}
+.low{
+    background-color: rgb(230, 186, 186);
+    text-align: center;
+}
